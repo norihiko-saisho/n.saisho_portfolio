@@ -104,7 +104,7 @@ $(document).ready(function() {
       $(this.element).addClass("fadeOutUp");
       $(this.element).removeClass("fadeInUp");
     }
-  }, { offset: "50%" });
+  }, { offset: "100%" });
   
   if (isMobile) {
     // モバイルブラウザでは静止画を表示
